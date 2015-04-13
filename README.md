@@ -13,10 +13,7 @@ Suppliers & Brands for WooCommerce includes the following files:
 
 * This plugin is being developed as a starting point in my way of learning WordPress Plugin development.
 * This plugin uses [WordPress Plugin Boilerplate](https://github.com/DevinVinson/WordPress-Plugin-Boilerplate) as foundation.
-
-## TO-DO
-
-* Adds two new taxonomies to WooCommerce products: suppliers and Brands.
+ * Adds two new taxonomies to WooCommerce products: suppliers and Brands.
 * Also adds some new fields to store supplier info (first release adds address and webpage).
 
 ## Installation
