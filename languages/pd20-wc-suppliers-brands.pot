@@ -1,0 +1,224 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Suppliers & Brands for WooCommerce v0.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-04-13 13:01+0100\n"
+"PO-Revision-Date: 2015-04-13 11:13:39+0000\n"
+"Last-Translator: Juan Rom&aacute;n <juanromanch@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: admin/class-pd20-wc-suppliers-brands-admin.php:105
+#@ pd20-wc-suppliers-brands
+msgid "Suppliers"
+msgstr ""
+
+#: admin/class-pd20-wc-suppliers-brands-admin.php:106
+#@ pd20-wc-suppliers-brands
+msgid "Supplier"
+msgstr ""
+
+#: admin/class-pd20-wc-suppliers-brands-admin.php:107
+#: admin/class-pd20-wc-suppliers-brands-admin.php:121
+#@ pd20-wc-suppliers-brands
+msgid "Search Suppliers"
+msgstr ""
+
+#: admin/class-pd20-wc-suppliers-brands-admin.php:108
+#: admin/class-pd20-wc-suppliers-brands-admin.php:122
+#@ pd20-wc-suppliers-brands
+msgid "Popular Suppliers"
+msgstr ""
+
+#: admin/class-pd20-wc-suppliers-brands-admin.php:109
+#@ pd20-wc-suppliers-brands
+msgid "All Suppliers"
+msgstr ""
+
+#: admin/class-pd20-wc-suppliers-brands-admin.php:112
+#@ pd20-wc-suppliers-brands
+msgid "Edit Supplier"
+msgstr ""
+
+#: admin/class-pd20-wc-suppliers-brands-admin.php:113
+#@ pd20-wc-suppliers-brands
+msgid "Update Supplier"
+msgstr ""
+
+#: admin/class-pd20-wc-suppliers-brands-admin.php:114
+#@ pd20-wc-suppliers-brands
+msgid "Add New Supplier"
+msgstr ""
+
+#: admin/class-pd20-wc-suppliers-brands-admin.php:115
+#@ pd20-wc-suppliers-brands
+msgid "New Supplier Name"
+msgstr ""
+
+#: admin/class-pd20-wc-suppliers-brands-admin.php:116
+#@ pd20-wc-suppliers-brands
+msgid "Separate suppliers with commas"
+msgstr ""
+
+#: admin/class-pd20-wc-suppliers-brands-admin.php:117
+#@ pd20-wc-suppliers-brands
+msgid "Add or remove suppliers"
+msgstr ""
+
+#: admin/class-pd20-wc-suppliers-brands-admin.php:118
+#@ pd20-wc-suppliers-brands
+msgid "Choose from the most used suppliers"
+msgstr ""
+
+#: admin/class-pd20-wc-suppliers-brands-admin.php:119
+#@ pd20-wc-suppliers-brands
+msgid "No suppliers found."
+msgstr ""
+
+#: admin/class-pd20-wc-suppliers-brands-admin.php:120
+#@ pd20-wc-suppliers-brands
+msgctxt "Admin menu name"
+msgid "Suppliers"
+msgstr ""
+
+#: admin/class-pd20-wc-suppliers-brands-admin.php:148
+#@ pd20-wc-suppliers-brands
+msgctxt "taxonomy general name"
+msgid "Brands"
+msgstr ""
+
+#: admin/class-pd20-wc-suppliers-brands-admin.php:149
+#@ pd20-wc-suppliers-brands
+msgctxt "taxonomy singular name"
+msgid "Brand"
+msgstr ""
+
+#: admin/class-pd20-wc-suppliers-brands-admin.php:150
+#: admin/class-pd20-wc-suppliers-brands-admin.php:164
+#@ pd20-wc-suppliers-brands
+msgid "Search Brands"
+msgstr ""
+
+#: admin/class-pd20-wc-suppliers-brands-admin.php:151
+#: admin/class-pd20-wc-suppliers-brands-admin.php:165
+#@ pd20-wc-suppliers-brands
+msgid "Popular Brands"
+msgstr ""
+
+#: admin/class-pd20-wc-suppliers-brands-admin.php:152
+#@ pd20-wc-suppliers-brands
+msgid "All Brands"
+msgstr ""
+
+#: admin/class-pd20-wc-suppliers-brands-admin.php:155
+#@ pd20-wc-suppliers-brands
+msgid "Edit Brand"
+msgstr ""
+
+#: admin/class-pd20-wc-suppliers-brands-admin.php:156
+#@ pd20-wc-suppliers-brands
+msgid "Update Brand"
+msgstr ""
+
+#: admin/class-pd20-wc-suppliers-brands-admin.php:157
+#@ pd20-wc-suppliers-brands
+msgid "Add New Brand"
+msgstr ""
+
+#: admin/class-pd20-wc-suppliers-brands-admin.php:158
+#@ pd20-wc-suppliers-brands
+msgid "New Brand Name"
+msgstr ""
+
+#: admin/class-pd20-wc-suppliers-brands-admin.php:159
+#@ pd20-wc-suppliers-brands
+msgid "Separate brands with commas"
+msgstr ""
+
+#: admin/class-pd20-wc-suppliers-brands-admin.php:160
+#@ pd20-wc-suppliers-brands
+msgid "Add or remove brands"
+msgstr ""
+
+#: admin/class-pd20-wc-suppliers-brands-admin.php:161
+#@ pd20-wc-suppliers-brands
+msgid "Choose from the most used brands"
+msgstr ""
+
+#: admin/class-pd20-wc-suppliers-brands-admin.php:162
+#@ pd20-wc-suppliers-brands
+msgid "No brands found."
+msgstr ""
+
+#: admin/class-pd20-wc-suppliers-brands-admin.php:163
+#@ pd20-wc-suppliers-brands
+msgid "Brands"
+msgstr ""
+
+#: admin/class-pd20-wc-suppliers-brands-admin.php:199
+#: admin/class-pd20-wc-suppliers-brands-admin.php:238
+#@ pd20-wc-suppliers-brands
+msgid "Supplier address"
+msgstr ""
+
+#: admin/class-pd20-wc-suppliers-brands-admin.php:202
+#: admin/class-pd20-wc-suppliers-brands-admin.php:241
+#@ pd20-wc-suppliers-brands
+msgid "Enter the suipplier address"
+msgstr ""
+
+#: admin/class-pd20-wc-suppliers-brands-admin.php:206
+#: admin/class-pd20-wc-suppliers-brands-admin.php:245
+#@ pd20-wc-suppliers-brands
+msgid "Supplier webpage"
+msgstr ""
+
+#: admin/class-pd20-wc-suppliers-brands-admin.php:209
+#: admin/class-pd20-wc-suppliers-brands-admin.php:248
+#@ pd20-wc-suppliers-brands
+msgid "Enter the suipplier webpage"
+msgstr ""
+
+#. translators: plugin header field 'Name'
+#: pd20-wc-suppliers-brands.php:0
+#@ pd20-wc-suppliers-brands
+msgid "Suppliers & Brands for WooCommerce"
+msgstr ""
+
+#. translators: plugin header field 'PluginURI'
+#. translators: plugin header field 'AuthorURI'
+#: pd20-wc-suppliers-brands.php:0
+#@ pd20-wc-suppliers-brands
+msgid "http://www.paradigma20.com"
+msgstr ""
+
+#. translators: plugin header field 'Description'
+#: pd20-wc-suppliers-brands.php:0
+#@ pd20-wc-suppliers-brands
+msgid "Adds brands an suppliers information to WooCommerce"
+msgstr ""
+
+#. translators: plugin header field 'Author'
+#: pd20-wc-suppliers-brands.php:0
+#@ pd20-wc-suppliers-brands
+msgid "Juan Román"
+msgstr ""
+
+#. translators: plugin header field 'Version'
+#: pd20-wc-suppliers-brands.php:0
+#@ pd20-wc-suppliers-brands
+msgid "0.0.1"
+msgstr ""
+
